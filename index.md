@@ -2,8 +2,12 @@
 # <h2> May the almighty grace upon you all <h2>
 I hope it will be a great joiuney to start the new thing with the perspective of 'learning and contributing with great thing.'
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Boxertocat](https://octodex.github.com/boxertocat/)
+
+MyWorkSpace
+$git init
+Initialize this and be benefited github.com/fooysaal/lv_mobile_serviceshop
 
 - [x] Introduce myself to the world
-- [ ] HMS:Hospital Management System
-- [ ] MSS:Mobile Servicing Store
+- [ ] Learn with github
+- [ ] Hope to contribute with crazy things
